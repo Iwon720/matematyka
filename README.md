@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+  <h1>Математика</h1>
   <a href="https://github.com/Iwon720/matematyka/blob/main/matematyka.pdf">
     <button>Скачать PDF</button>
   </a>
